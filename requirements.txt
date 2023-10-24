@@ -8,5 +8,5 @@ pymysql
 scikit-learn
 catboost
 xgboost
-mlflow==2.7.1
+mlflow
 # -e .
